@@ -1,0 +1,11 @@
+{
+  "account": "liwaw008-svg",
+  "network": "StudioNet",
+  "contractAddress": "0x4d3D641Bc236dc3de952c2bC5b0c20252Be470c3",
+  "deploymentTransaction": "0xf045caba37bdb6126e805c0ed3aab29a7a9ac72a1224a68138d638bff0385862",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "bc06d733f4ec45f26492ee624237beefbff4d017abdae8d6a797a54c3065d078",
+  "sourceCommit": "45967f40de6fbc666304c8bf686f7230065dc12e",
+  "repository": "https://github.com/liwaw008-svg/constraint-orbit"
+}

@@ -1,0 +1,18 @@
+{
+  "recordType": "operator-created lifecycle fixture; not independent third-party evidence",
+  "recordId": "CONSTRAINT_ORBIT-1792366281",
+  "contractAddress": "0x4d3D641Bc236dc3de952c2bC5b0c20252Be470c3",
+  "transaction": "0xe755ba2bac8e6e77f643abe5b80cf8d3c0ee478700535185c1b824957625b244",
+  "readback": {
+    "charter_url": "https://www.w3.org/TR/design-principles/",
+    "edges": [],
+    "id": "CONSTRAINT_ORBIT-1792366281",
+    "max_rings": 5,
+    "nodes": [],
+    "owner": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+    "rings": [],
+    "source_digests": [],
+    "state": "OPEN",
+    "title": "Dependency map for modular canvas tools"
+  }
+}
